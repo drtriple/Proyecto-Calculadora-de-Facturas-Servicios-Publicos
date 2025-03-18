@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\apiServPub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBCFF42-ED67-4501-8ABD-2A24F9F25380}|apiServPub\\apiServPub.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\practica3\\apiservpub\\apiservpub\\models\\modservpub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBCFF42-ED67-4501-8ABD-2A24F9F25380}|apiServPub\\apiServPub.csproj|solutionrelative:apiservpub\\models\\modservpub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FBCFF42-ED67-4501-8ABD-2A24F9F25380}|apiServPub\\apiServPub.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\practica3\\apiservpub\\apiservpub\\clases\\clsopeservpub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FBCFF42-ED67-4501-8ABD-2A24F9F25380}|apiServPub\\apiServPub.csproj|solutionrelative:apiservpub\\clases\\clsopeservpub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsOpeServPub.cs",
+              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\apiServPub\\apiServPub\\Clases\\clsOpeServPub.cs",
+              "RelativeDocumentMoniker": "apiServPub\\Clases\\clsOpeServPub.cs",
+              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\apiServPub\\apiServPub\\Clases\\clsOpeServPub.cs",
+              "RelativeToolTip": "apiServPub\\Clases\\clsOpeServPub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:22:38.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "modServPub.cs",
+              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\apiServPub\\apiServPub\\Models\\modServPub.cs",
+              "RelativeDocumentMoniker": "apiServPub\\Models\\modServPub.cs",
+              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\apiServPub\\apiServPub\\Models\\modServPub.cs",
+              "RelativeToolTip": "apiServPub\\Models\\modServPub.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T03:08:14.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
