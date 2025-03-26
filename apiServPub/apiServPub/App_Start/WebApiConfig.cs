@@ -11,6 +11,7 @@ namespace apiServPub
         {
             // Configuración y servicios de Web API
 
+            config.EnableCors();
             // Rutas de Web API
             config.MapHttpAttributeRoutes();
 
