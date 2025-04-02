@@ -6,96 +6,43 @@ using System.Web;
 
 namespace apiServPub.Models
 {
-	public class modServPub
-	{
-        #region Atributos
-        public int intEstrato;
-        public int intkKw;
-        public int intkM3;
-        public int intklTel;
-        public float fltvrDolar;
-        public float fltvrKw;
-        public float fltvrM3;
-        public float fltvrTel;
-        public float fltvrTEnergia;
-        public float fltvrTAgua;
-        public float fltvrTTelef;
-        public float fltvrImpCons;
-        public float fltvrAPag;
-        public string strError;
-        #endregion
+    public class modServPub
+    {
+        #region Constructor
+        public modServPub()
+        {
+            Estrato = 0;
+            kKw = 0;
+            kM3 = 0;
+            klTel = 0;
+            vrDolar = 0;
+            vrKw = 0;
+            vrM3 = 0;
+            vrTel = 0;
+            vrTEnergia = 0;
+            vrTAgua = 0;
+            vrTTelef = 0;
+            vrImpCons = 0;
+            vrAPag = 0;
+            Error = string.Empty;
+        }
+        #endregion		
 
         #region Propiedades
-        public int Estrato
-        {
-            get { return intEstrato; }
-            set { intEstrato = value; }
-        }
-        public int kKw
-        {
-            get { return intkKw; }
-            set { intkKw = value; }
-        }
-        public int kM3
-        {
-            get { return intkM3; }
-            set { intkM3 = value; }
-        }
-        public int klTel
-        {
-            get { return intklTel; }
-            set { intklTel = value; }
-        }
-        public float vrDolar
-        {
-            get { return fltvrDolar; }
-            set { fltvrDolar = value; }
-        }
-        public float vrKw
-        {
-            get { return fltvrKw; }
-            set { fltvrKw = value; }
-        }
-        public float vrM3
-        {
-            get { return fltvrM3; }
-            set { fltvrM3 = value; }
-        }
-        public float vrTel
-        {
-            get { return fltvrTel; }
-            set { fltvrTel = value; }
-        }
-        public float vrTEnergia
-        {
-            get { return fltvrTEnergia; }
-            set { fltvrTEnergia = value; }
-        }
-        public float vrTAgua
-        {
-            get { return fltvrTAgua; }
-            set { fltvrTAgua = value; }
-        }
-        public float vrTTelef
-        {
-            get { return fltvrTTelef; }
-            set { fltvrTTelef = value; }
-        }
-        public float vrImpCons
-        {
-            get { return fltvrImpCons; }
-            set { fltvrImpCons = value; }
-        }
-        public float vrAPag
-        {
-            get { return fltvrAPag; }
-            set { fltvrAPag = value; }
-        }
-        public string Error
-        {
-            get { return strError; }
-            set { strError = value; }
-        }
+        public int Estrato { get; set; }
+        public int kKw { get; set; }
+        public int kM3 { get; set; }
+        public int klTel { get; set; }
+        public float vrDolar { get; set; }
+        public float vrKw { get; set; }
+        public float vrM3 { get; set; }
+        public float vrTel { get; set; }
+        public float vrTEnergia { get; set; }
+        public float vrTAgua { get; set; }
+        public float vrTTelef { get; set; }
+        public float vrImpCons { get; set; }
+        public float vrAPag { get; set; }
+        public string Error { get; set; }
         #endregion
 
     }

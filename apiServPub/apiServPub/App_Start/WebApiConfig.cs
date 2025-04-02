@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace apiServPub
 {
@@ -11,7 +12,10 @@ namespace apiServPub
         {
             // Configuración y servicios de Web API
 
-            config.EnableCors();
+            // Habilitar CORS para todas las solicitudes
+            var cors = new EnableCorsAttribute("*", "*", "*"); // Permite todo (puedes restringir después)
+            config.EnableCors(cors);
+
             // Rutas de Web API
             config.MapHttpAttributeRoutes();
 

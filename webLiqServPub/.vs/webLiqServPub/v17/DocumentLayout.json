@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\webLiqServPub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F3BA70-9E09-4C4A-ABF1-89C20B5BE203}|webLiqServPub\\webLiqServPub.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\practica3\\webliqservpub\\webliqservpub\\scripts\\ctlfrmsp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F7F3BA70-9E09-4C4A-ABF1-89C20B5BE203}|webLiqServPub\\webLiqServPub.csproj|solutionrelative:webliqservpub\\scripts\\ctlfrmsp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F3BA70-9E09-4C4A-ABF1-89C20B5BE203}|webLiqServPub\\webLiqServPub.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\practica3\\webliqservpub\\webliqservpub\\frmliqsp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7F3BA70-9E09-4C4A-ABF1-89C20B5BE203}|webLiqServPub\\webLiqServPub.csproj|solutionrelative:webliqservpub\\frmliqsp.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ctlFrmSP.js",
+              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\webLiqServPub\\webLiqServPub\\Scripts\\ctlFrmSP.js",
+              "RelativeDocumentMoniker": "webLiqServPub\\Scripts\\ctlFrmSP.js",
+              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\webLiqServPub\\webLiqServPub\\Scripts\\ctlFrmSP.js",
+              "RelativeToolTip": "webLiqServPub\\Scripts\\ctlFrmSP.js",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwHAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-01T23:07:48.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLiqSP.html",
+              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\webLiqServPub\\webLiqServPub\\frmLiqSP.html",
+              "RelativeDocumentMoniker": "webLiqServPub\\frmLiqSP.html",
+              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\webLiqServPub\\webLiqServPub\\frmLiqSP.html",
+              "RelativeToolTip": "webLiqServPub\\frmLiqSP.html",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-01T22:51:35.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

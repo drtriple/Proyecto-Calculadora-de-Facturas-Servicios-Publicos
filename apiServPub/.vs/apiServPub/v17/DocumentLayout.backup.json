@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{7FBCFF42-ED67-4501-8ABD-2A24F9F25380}|apiServPub\\apiServPub.csproj|solutionrelative:apiservpub\\clases\\clsopeservpub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FBCFF42-ED67-4501-8ABD-2A24F9F25380}|apiServPub\\apiServPub.csproj|d:\\datos\\desktop\\itm\\quinto semestre\\programacion\\practica3\\apiservpub\\apiservpub\\models\\modservpub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FBCFF42-ED67-4501-8ABD-2A24F9F25380}|apiServPub\\apiServPub.csproj|D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\apiServPub\\apiservpub\\models\\modservpub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FBCFF42-ED67-4501-8ABD-2A24F9F25380}|apiServPub\\apiServPub.csproj|solutionrelative:apiservpub\\models\\modservpub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,24 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "sSerPubController.cs",
-              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\apiServPub\\apiServPub\\Controllers\\sSerPubController.cs",
-              "RelativeDocumentMoniker": "apiServPub\\Controllers\\sSerPubController.cs",
-              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\apiServPub\\apiServPub\\Controllers\\sSerPubController.cs",
-              "RelativeToolTip": "apiServPub\\Controllers\\sSerPubController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T22:07:04.24Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -53,9 +40,22 @@
               "RelativeDocumentMoniker": "apiServPub\\App_Start\\WebApiConfig.cs",
               "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\apiServPub\\apiServPub\\App_Start\\WebApiConfig.cs",
               "RelativeToolTip": "apiServPub\\App_Start\\WebApiConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T22:05:55.046Z",
+              "WhenOpened": "2025-04-01T22:30:00.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sSerPubController.cs",
+              "DocumentMoniker": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\apiServPub\\apiServPub\\Controllers\\sSerPubController.cs",
+              "RelativeDocumentMoniker": "apiServPub\\Controllers\\sSerPubController.cs",
+              "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\apiServPub\\apiServPub\\Controllers\\sSerPubController.cs",
+              "RelativeToolTip": "apiServPub\\Controllers\\sSerPubController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:07:04.24Z",
               "EditorCaption": ""
             },
             {
@@ -66,7 +66,7 @@
               "RelativeDocumentMoniker": "apiServPub\\Clases\\clsOpeServPub.cs",
               "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\apiServPub\\apiServPub\\Clases\\clsOpeServPub.cs",
               "RelativeToolTip": "apiServPub\\Clases\\clsOpeServPub.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBcAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwGIAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T03:22:38.768Z",
               "EditorCaption": ""
@@ -79,7 +79,7 @@
               "RelativeDocumentMoniker": "apiServPub\\Models\\modServPub.cs",
               "ToolTip": "D:\\Datos\\Desktop\\ITM\\QUINTO SEMESTRE\\PROGRAMACION\\practica3\\apiServPub\\apiServPub\\Models\\modServPub.cs",
               "RelativeToolTip": "apiServPub\\Models\\modServPub.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAA5wF4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T03:08:14.488Z",
               "EditorCaption": ""
